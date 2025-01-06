@@ -1,8 +1,3 @@
--=(Blockade_Senhor notes)=-
-
-Tested: Working Video 720p, 1080p & Sound
-
-___
 # Blockade by Sega/Gremlin Industries for [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 An FPGA implementation of Blockade arcade hardware by Gremlin Industries for the MiSTer platform.
